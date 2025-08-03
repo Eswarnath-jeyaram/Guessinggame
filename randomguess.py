@@ -1,4 +1,4 @@
-print ("WELCOME TO THE GUESSING GAME!!!")
+print ("WELCOME TO THE GUESSING GAME!!!!")
 import random 
 num = random.randint(1,100)
 trial = 0
